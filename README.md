@@ -26,6 +26,7 @@ To use FusionAnimator:
 3. **Set ease speed, animation speed, on-end event and position multiplier**.
     - The on-end event string fires a timer event immediately when the animation is over (and it is not looping) with the name entered in said alterable string.
     - If you would like to reference specific FusionAnimated Objects then you can enter a unique ID in the alterable value **myID** and/or the alterable string **strID**.
+    - Certain animation properties, like making an animation loop, are in the animation's .json.
 4. _Done!_
 _It's best to not modify the FusionAnimated Object active unless you know what you're doing!_
 
