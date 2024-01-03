@@ -37,7 +37,7 @@ for obj in bpy.context.scene.objects:
             rot = obj.matrix_world.to_euler()
             scale = obj.matrix_world.to_scale()
 
-            # save data with rounding, remove if necessary
+            # convert to degrees and round decimal, remove rounding if necessary
             rot = [round(math.degrees(r), 3) for r in rot]
 
             loc_keyframes.append(list(loc))
