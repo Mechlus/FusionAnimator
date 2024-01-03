@@ -4,6 +4,8 @@
 If you have ever wanted to make more stylish animations for your objects in your Clickteam Fusion 2.5+ applications then this tool will be of use to you.
 Using Blender version 2.79 and above, FusionAnimator + its bundled python script(s) can put animation data right into your games easily.
 
+The included python scripts create json data of a selected Blender object that can be used to transform objects in Clickteam Fusion using the provided FusionAnimated Object.
+
 ## How to Setup
 1. Own Clickteam Fusion 2.5+
 2. Download the required extensions:
