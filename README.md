@@ -32,7 +32,8 @@ To use FusionAnimator:
 4. _Done!_
 _It's best to not modify the FusionAnimated Object active unless you know what you're doing!_
 
-![Example](https://github.com/Mechlus/FusionAnimator/assets/82886093/991098ac-dacb-4dec-801d-0ff84ebf8a0f)
+![Example](https://github.com/Mechlus/FusionAnimator/assets/82886093/434ca123-96a6-4deb-afcf-c6ce75be4f6a)
+
 
 **NOTE**: If you want to reuse the same object but you want to change the animation, simply set the **perform** flag to **FALSE** (0) and repeat steps 2 & 3. If perform is not turned off then the object may run into issues!
 
